@@ -43,6 +43,3 @@ We welcome contributions! To contribute to **GreenCart**, follow these steps:
 📝 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for more details.
 
-## 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urssanjaysingh)
